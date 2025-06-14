@@ -1,22 +1,50 @@
 # 🎲 Jogo de Dados em C
 
-Projeto desenvolvido como parte da disciplina de Grau A do curso de [teu curso] na **Unisinos**. Este jogo de dados foi implementado em linguagem C com foco em lógica de programação, manipulação de estruturas e interação com o usuário via terminal.
+Este é um projeto desenvolvido como parte da disciplina de Grau A na Unisinos. Trata-se de um jogo simples de dados, escrito em linguagem C, que simula lançamentos e determina o vencedor com base em regras definidas.
 
-## 📌 Objetivo
+## 📌 Objetivos do Projeto
 
-Simular um jogo de dados onde os jogadores competem entre si, acumulando pontos a cada rodada. O jogo segue regras específicas para determinar o vencedor com base nos resultados dos dados.
+- Praticar lógica de programação em C
+- Trabalhar com estruturas condicionais e loops
+- Desenvolver um projeto completo e funcional
+- Entregar um trabalho de qualidade acadêmica
 
-## 🛠️ Tecnologias Utilizadas
-
-- Linguagem C
-- Compilador GCC
-- Terminal (CLI)
-- Git/GitHub para controle de versão
-
-## 🚀 Como Executar
+## 🚀 Como executar
 
 1. Clone o repositório:
+
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
+   git clone https://github.com/PiterAlves/jogoDeDado.git
+   cd jogoDeDado
+
+2. Compile o projeto:
+
+	```bash
+	gcc jogo.c -o jogo
+
+3. Execute o jogo:
+
+	```bash
+	./jogo
+	Obs: É necessário ter o compilador gcc instalado.
+
+# 📷 Exemplo de execução
+
+	```yaml
+	Jogador 1 tirou: 5
+	Jogador 2 tirou: 3
+	Resultado: Jogador 1 venceu!
+	
+# 📁 Estrutura dos arquivos
+
+	```jogoDeDado/
+	├── jogo.c
+	├── README.md
+	└── ...
+	
+# ✍️ Autor
+
+	Piter Alves
+	Estudante de Ciência da Computação
+	Universidade do Vale do Rio dos Sinos - Unisinos
+	GitHub: @PiterAlves
