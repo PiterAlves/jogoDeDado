@@ -42,9 +42,8 @@ Este é um projeto desenvolvido como parte da disciplina de Grau A na Unisinos. 
 	├── README.md
 	└── ...
 	
-# ✍️ Autor
+## 👨‍💻 Autor
 
-	**Piter Alves**
-	**Estudante de Ciência da Computação**
-	Universidade do Vale do Rio dos Sinos - Unisinos
-	GitHub: @PiterAlves
+- **[Piter Alves](https://github.com/PiterAlves)**  
+  Estudante da graduação na **Unisinos**  
+  Projeto desenvolvido para a disciplina de **Grau A**
