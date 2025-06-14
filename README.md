@@ -44,7 +44,7 @@ Este é um projeto desenvolvido como parte da disciplina de Grau A na Unisinos. 
 	
 # ✍️ Autor
 
-	# Piter Alves
-	Estudante de Ciência da Computação
+	**Piter Alves**
+	**Estudante de Ciência da Computação**
 	Universidade do Vale do Rio dos Sinos - Unisinos
 	GitHub: @PiterAlves
