@@ -30,21 +30,21 @@ Este é um projeto desenvolvido como parte da disciplina de Grau A na Unisinos. 
 
 # 📷 Exemplo de execução
 
-	```yaml
+	yaml
 	Jogador 1 tirou: 5
 	Jogador 2 tirou: 3
 	Resultado: Jogador 1 venceu!
 	
 # 📁 Estrutura dos arquivos
 
-	```jogoDeDado/
+	jogoDeDado/
 	├── jogo.c
 	├── README.md
 	└── ...
 	
 # ✍️ Autor
 
-	Piter Alves
+	# Piter Alves
 	Estudante de Ciência da Computação
 	Universidade do Vale do Rio dos Sinos - Unisinos
 	GitHub: @PiterAlves
